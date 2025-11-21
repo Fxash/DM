@@ -1,6 +1,6 @@
 // Fx Ash Trading Analyzer - WebSocket Auto Connect
 const APP_ID = '112324';
-const API_TOKEN = 'ZAUmyCyWE6aGRgf';
+const API_TOKEN = 'zxWdJ34vqayWgY5';
 
 let socket;
 let analysisRunning = false;
@@ -148,3 +148,4 @@ circles.forEach(circle => {
     entryDisplay.textContent = `Entry: ${digit}`;
   });
 });
+
